@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SB4001 Work Placement</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="content">
+        <section>
+            <h2>Welcome to my work placement portfolio.</h2>
+            <p>
+                 Use the Sidebar to Explore my Reflections, Career Attributes, and Photos.
+            </p>
+        </section>
+    
+        <section class="context">
+            <h2>Context</h2>
+            <p>
+                Maybe text here.
+            </p>
+        </section>
+    
+    </main>
+    
+    <img src="cityscape.svg" alt="Cityscape" class="cityscape">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <h1>SB4001</h1>
+        <p>Work Placement</p>
+
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="reflection.html">Reflection</a>
+            <a href="careerAttributes.html">Career Attributes</a>
+            <a href="photos.html">Photos</a>
+            <a href="formative.html">Prediction</a>
+        </nav>
+    </aside>
+
+</body>
+</html>
